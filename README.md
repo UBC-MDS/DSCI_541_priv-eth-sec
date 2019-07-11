@@ -2,17 +2,18 @@
 
 The legal, ethical, and security issues concerning data, including aggregated data. Proactive compliance with rules and, in their absence, principles for the responsible management of sensitive data. Case studies.
 
+## Learning Outcomes
 
+By the end of the course, students will be able to:
 
-## Teaching team
+1. Identify situations in which data is sensitive, assess the risks, and articulate a reasoned response.
+2. Identify the pros and cons of situations in which data was collected for one purpose and later analyzed for other purposes.
+3. Identify trade-offs in security and privacy.
+4. Apply ethical theories to case studies.  Consider privacy, human dignity, harm, the public good, legal issues, the role of ethics boards, and consent.
+5. Implement good security and privacy practices in data storage, use, and reporting.
+6. Explain why good security is not a product, but rather a process and a mindset.
+7. Argue for why security is complex and difficult, and why perfect security may be unachievable.
 
-| Position | Name  | Slack Handle | GHE Handle | Lab section | Office hour |
-| :------: | :---: | :----------: | :--------: | :--------: | :--------: |
-| Lecture instructor | Ed Knorr | @edknorr | |  | Thursdays 4:30 - 5:30pm at ICICS 229 |   
-| Lab instructor  | Varada Kolhatkar | @Varada | @kvarada | all | by appointment | 
-| Teaching assistant | Gunho (Loren) Oh  | @Loren Oh |  | L01 | Wednesdays 2pm – 3:00pm at ESB 1045| 
-| Teaching assistant | Joel Ostblom | @joelostblom |  | L02 | Fridays 1:00 – 2:00pm at ESB 1045| 
-| Teaching assistant | Hossameldin Mohammed | @Hossam  |  | L02 | Fridays 11:00am – noon at ESB 1045| 
 
 
 ## Schedule
@@ -42,17 +43,6 @@ For labs 2, 3, and 4 there will be pre-reading. We will post these readings on t
 | 4 | Case studies in ethics.  Students come prepared.  Class-wide discussion.| For homework, students prepare a 1-page report on a case study determined by the teaching staff.|<li>[First 20 minutes of the roundtable by Dr. Michal Kosinski](https://www.youtube.com/watch?v=wrpzE05MO7A)</li>The following video which you will watch for lecture 7 as well.<li>["Show Me Your Data and I'll Tell You Who You Are" by Sandra Wachter](https://www.youtube.com/watch?time_continue=27&v=YYb1Dtc1B40)</li> And the following video which you already have watched for lecture 6.<li>[The end of privacy](https://www.youtube.com/watch?v=NesTWiKfpD0)</li>|
 
 
-## Learning Outcomes
-
-By the end of the course, students will be able to:
-
-1. Identify situations in which data is sensitive, assess the risks, and articulate a reasoned response.
-2. Identify the pros and cons of situations in which data was collected for one purpose and later analyzed for other purposes.
-3. Identify trade-offs in security and privacy.
-4. Apply ethical theories to case studies.  Consider privacy, human dignity, harm, the public good, legal issues, the role of ethics boards, and consent.
-5. Implement good security and privacy practices in data storage, use, and reporting.
-6. Explain why good security is not a product, but rather a process and a mindset.
-7. Argue for why security is complex and difficult, and why perfect security may be unachievable.
 
 
 ## Lecture Learning Objectives (These depend on how many of the lecture topics we can cover, and are subject to reordering.  Some topics may need to be deferred to a following lecture.)
